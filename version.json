@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3",
-  "apkUrl": "https://github.com/truk-mitra/Transport_Connect_Update/releases/download/v1.3/app-release.apk",
+  "versionCode": 5,
+  "versionName": "1.4",
+  "apkUrl": "https://github.com/truk-mitra/Transport_Connect_Update/releases/download/v1.4/app-release.apk",
   "message": "New update available",
   "forceUpdate": true
 }
