@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "apkUrl": "https://github.com/truk-mitra/Transport_Connect_Update/releases/download/v1.2/tarsnport-connect-3.apk",
+  "versionCode": 4,
+  "versionName": "1.3",
+  "apkUrl": "https://github.com/truk-mitra/Transport_Connect_Update/releases/download/v1.3/app-release.apk",
   "message": "New update available",
   "forceUpdate": true
 }
